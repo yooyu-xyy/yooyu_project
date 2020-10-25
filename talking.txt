@@ -1,2 +1,3 @@
 hello，form yooyu-xu
 hi, from yooyu-xyy
+ssh解决提交时重复输入密码问题
